@@ -24,10 +24,15 @@ for x in numbers:
 n = n1+n2+n3
 print(f"Amazing! The sum of your favorite numbers is: {n}")
 
-for a in range(2, n):
-    if n % a == 0:
-        print(f"Wow {n} is not a prime number")
-        break
-    else:
+if n == 2:
+    print(f"Wow {n} is a prime number")
+
+elif n <= 0:
+    print("Invalid input negative number")
+else:
+    for a in range(2, n):
+        if n % a == 0:
+            print(f"Wow {n} is not a prime number")
+            break
+    else:  # This else will only work when the loop breaks
         print(f"Wow {n} is a prime number")
-        break
