@@ -2,7 +2,7 @@
 
 The code is explained in these steps
 
-### Enter Name of Particiapant and adding three of his fav Numbers
+### 1.Enter Name of Particiapant and adding three of his fav Numbers
 
 
 name = input("Enter your name = ")  
