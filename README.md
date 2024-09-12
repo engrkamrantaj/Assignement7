@@ -59,6 +59,6 @@ else:
 ```
 ### 6.Screenshot of the code
 
-https://github.com/engrkamrantaj/Assignement7/blob/main/Assignement%207.png
 
+![alt text]((https://github.com/engrkamrantaj/Assignement7/blob/main/Assignement%207.png)
 
