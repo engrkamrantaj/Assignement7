@@ -6,9 +6,9 @@ The code is explained in these steps
 
 
 name = input("Enter your name = ")
-n1 = int(input("Enter your first fav number = "))
-n2 = int(input("Enter your second fav number = "))
-n3 = int(input("Enter your third fav number = "))
+*n1 = int(input("Enter your first fav number = "))
+*n2 = int(input("Enter your second fav number = "))
+*n3 = int(input("Enter your third fav number = "))
 
 2.Personalized message with uses name and creating a list to add the numbers
 
