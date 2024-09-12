@@ -33,7 +33,7 @@ for x in numbers:
     else:
         print(f"The number {x} is odd")
 ```  
-### 4.Saving and its square in a tuple
+### 4.Saving the number and its square in a tuple
 ```
 for x in numbers:
     sqr = (x, x*x)
