@@ -57,3 +57,8 @@ else:
     else:  # This else will only work when the loop breaks
         print(f"Wow {n} is a prime number")
 ```
+### 6.Screenshot of the code
+
+https://github.com/engrkamrantaj/Assignement7/blob/main/Assignement%207.png
+
+
