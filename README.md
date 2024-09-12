@@ -5,7 +5,8 @@ The code is explained in these steps
 ### Enter Name of Particiapant and adding three of his fav Numbers
 
 
-name = input("Enter your name = ")
+name = input("Enter your name = ")  
+
 n1 = int(input("Enter your first fav number = "))  
 
 n2 = int(input("Enter your second fav number = "))  
