@@ -59,7 +59,5 @@ else:
 ```
 ### 6.Screenshot of the code
 
-![Assignement 7](https://github.com/user-attachments/assets/0085d4e9-93ba-4dbc-a5af-aef7d742ccba)
-
 ![Assignement 7](https://github.com/engrkamrantaj/Assignement7/blob/main/Assignement%207.png)
 
